@@ -25,10 +25,10 @@ const Hero = () => {
         <h2 className="text-2xl font-semibold">
           PORFA MIRA LA WEB SOLO <br />
           (no quiero que tu familia vea mi estado de salud mental sin antes vos
-          haber permido que lo vean, no te veo mas creo después de esto😇)
+          hayas permitido o corroborado que fuera apto para todo publico (??????, no te veo mas creo después de esto😇)
         </h2>
 
-        <h3>Te hice una web como la ves, me recibí de autista si o no 😜</h3>
+        <h3>Te hice una web, como la ves? me recibí de autista si o no 😜</h3>
 
         <div className="flex gap-4 ">
           <button
