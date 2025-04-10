@@ -24,7 +24,7 @@ const Hero = () => {
         </h1>
         <h2 className="text-2xl font-semibold">
           PORFA MIRA LA WEB SOLO <br />
-          (no quiero que tu familia vea mi estado de salud mental sin antes vos
+          (no quiero que tu familia vea mi estado de salud mental sin que antes vos
           hayas permitido o corroborado que fuera apto para todo publico (??????, no te veo mas creo después de esto😇)
         </h2>
 
